@@ -10,4 +10,4 @@
 
 ## Contributers
 
-- @chankruze
+- [chankruze](https://github.com/chankruze)
