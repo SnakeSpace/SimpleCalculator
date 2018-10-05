@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Screenshot](https://image.ibb.co/bGqHjK/Screenshot_310.png)
+![Screenshot](https://image.ibb.co/fBrq6z/Screenshot_314.png)
 
 ## Contributers
 
